@@ -16,6 +16,15 @@ This method was implemented in three ways,
 ## Visual Results
 ![alt text](https://raw.githubusercontent.com/batuhanhangun/MSc-Thesis/main/results.gif)
 
+## Performance Evaluation
+**OpenMP Parallel vs Serial** <br>
+![alt text](https://github.com/batuhanhangun/MSc-Thesis/blob/main/totalsp.png)
+<br>
+**OpenCV Parallel (CPU) vs OpenCV Parallel (GPU)** <br>
+![alt text](https://github.com/batuhanhangun/MSc-Thesis/blob/main/TotalSpeedupGPUnotWarmed.png)
+<br>
+![alt text](https://github.com/batuhanhangun/MSc-Thesis/blob/main/TotalSpeedupGPUwarmed.png)
+
 # 
 
 This thesis contains the CPU and GPU implementations of the method given in https://ieeexplore.ieee.org/document/8071892
