@@ -7,6 +7,12 @@ Selected method from the literature is consist of the steps given below. <br>
 
 ![alt text](https://github.com/batuhanhangun/MSc-Thesis/blob/main/diagram.png)
 
+This method was implemented in three ways,
+
+* OpenMP + OpenCV version: In this version OpenCV was only used to read/write image
+* OpenCV (CPU) version: In this version, whole method was implemented by using OpenCV's default CPU functions
+* OpenCV (GPU) version: In this version, whole method was implemented by using OpenCV's default GPU functions
+
 ## Visual Results
 ![alt text](https://raw.githubusercontent.com/batuhanhangun/MSc-Thesis/main/results.gif)
 
