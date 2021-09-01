@@ -5,7 +5,9 @@ Image processing is a research area with applications in various fields. In time
 ## A Review of the selected method
 Selected method from the literature is consist of the steps given below. <br>
 
-![alt text](https://github.com/batuhanhangun/MSc-Thesis/blob/main/diagram.png)
+<p align="center">
+  <img src="https://github.com/batuhanhangun/MSc-Thesis/blob/main/diagram.png" />
+</p>
 
 This method was implemented in three ways,
 
